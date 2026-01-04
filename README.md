@@ -1,7 +1,7 @@
 # DietPlan
 How to get started with your diet with code, fun, and PANDAS!
 
-# How to SetUp?
+# How to Setup?
 To set up:
 + Install and import **pygame**
 + Import **random** and **time**
